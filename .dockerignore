@@ -1,0 +1,11 @@
+.venv
+.git
+.gitignore
+.pytest_cache
+.seo_agent_state
+__pycache__
+**/__pycache__
+tests
+scripts
+deploy_agent.sh
+*.log
